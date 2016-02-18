@@ -122,6 +122,10 @@ as in
 
     [http://code.google.com/p/naxsi/](http://code.google.com/p/naxsi/)
 
+- ngx\_shibboleth
+
+    [https://github.com/nginx-shib/nginx-http-shibboleth](https://github.com/nginx-shib/nginx-http-shibboleth)
+
 # SOURCE REPOSITORY
 
 This module has a Git repository on Github, which has access for all.
@@ -134,7 +138,7 @@ If you want a commit bit, feel free to drop me a line.
 
 # DEBIAN PACKAGES
 
-António P. P. Almeida is maintaining a Debian package for this module
+AntÃ³nio P. P. Almeida is maintaining a Debian package for this module
 in his Debian repository: [http://debian.perusio.net](http://debian.perusio.net)
 
 [Back to TOC](#table-of-contents)
